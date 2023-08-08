@@ -1,10 +1,10 @@
 ## Olá, eu sou o Julio 👋
 
-Sou um desenvolvedor Python especializado em backend, apaixonado por esse mundo da programação. Tenho experiência sólida em tecnologias como Flask, bancos de dados, Docker, AWS e pytest. 🚀
+Sou um desenvolvedor com experiência em Python e Java, especializado em backend e apaixonado pelo mundo da programação. Tenho conhecimentos sólidos em tecnologias como Flask, bancos de dados, Docker, AWS, pytest e Java. 🚀
 
 ### Tecnologias 🛠️
 
-- Linguagem: Python 🐍
+- Linguagens: Python 🐍, Java ☕️
 - Frameworks: Flask 🌶️
 - Bancos de Dados: MySQL, PostgreSQL, MongoDB 🗃️
 - Ferramentas: Docker 🐳, Git 🌳
@@ -14,7 +14,7 @@ Sou um desenvolvedor Python especializado em backend, apaixonado por esse mundo 
 ### Projetos Destacados 🏆
 
 - [Projeto 1](https://github.com/Julioc10/Jogoteca): É uma "biblioteca" para listar e adicionar jogos. Adicionando Nome, categoria, console e capa. Com algumas implementações de login & senha.
-- [Projeto 2](https://github.com/Julioc10/api-rest-customers): Uma API-Rest que pega algumas informações em um formato json e cadastra em um banco de dados dentro de um container do Docker
+- [Projeto 2](https://github.com/Julioc10/api-rest-customers): Uma API-Rest que pega algumas informações em um formato json e cadastra em um banco de dados dentro de um container do Docker.
 
 ### Contribuições para a Comunidade ❤️
 
