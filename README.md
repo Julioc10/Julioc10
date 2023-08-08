@@ -1,10 +1,9 @@
 ## Olá, eu sou o Julio 👋
 
+![image](https://github.com/Julioc10/Julioc10/assets/69183396/013106f0-0c6a-4a03-ae09-dc7d360ef529)
 
 Sou um desenvolvedor com experiência em Python e Java, especializado em backend e apaixonado pelo mundo da programação. Tenho conhecimentos sólidos em tecnologias como Flask, bancos de dados, Docker, AWS, pytest 🚀
 
-![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioC10&show_icons=true&theme=radical) 
-![image](https://github.com/Julioc10/Julioc10/assets/69183396/013106f0-0c6a-4a03-ae09-dc7d360ef529)
 
 
 ### Tecnologias 🛠️
@@ -31,3 +30,5 @@ Acredito na importância da colaboração e do código aberto. Contribuo com pro
 - Email: ojuliocesar010@gmail.com
 
 Vamos trabalhar juntos para criar soluções eficientes e impactantes no mundo do desenvolvimento backend! 🚀
+
+![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioC10&show_icons=true&theme=radical) 
