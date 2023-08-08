@@ -22,7 +22,7 @@ Acredito na importância da colaboração e do código aberto. Contribuo com pro
 
 ### Contato 📬
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/julio-cesar-de-oliveira-7392a11b3/)
+- LinkedIn: [Julio Cesar de Oliveira](https://www.linkedin.com/in/julio-cesar-de-oliveira-7392a11b3/)
 - Email: ojuliocesar010@gmail.com
 
 Vamos trabalhar juntos para criar soluções eficientes e impactantes no mundo do desenvolvimento backend! 🚀
