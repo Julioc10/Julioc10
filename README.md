@@ -27,4 +27,4 @@ Acredito na importância da colaboração e do código aberto. Contribuo com pro
 
 Vamos trabalhar juntos para criar soluções eficientes e impactantes no mundo do desenvolvimento backend! 🚀
 
-![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioC10&show_icons=true&theme=radical)
