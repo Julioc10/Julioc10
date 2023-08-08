@@ -1,6 +1,6 @@
 ## Olá, eu sou o Julio 👋
 
-Sou um desenvolvedor Python especializado em backend, apaixonado por esse mundo da programação. Tenho experiência sólida em tecnologias como Flask, bancos de dados, Docker e AWS. 🚀
+Sou um desenvolvedor Python especializado em backend, apaixonado por esse mundo da programação. Tenho experiência sólida em tecnologias como Flask, bancos de dados, Docker, AWS e pytest. 🚀
 
 ### Tecnologias 🛠️
 
@@ -9,6 +9,7 @@ Sou um desenvolvedor Python especializado em backend, apaixonado por esse mundo 
 - Bancos de Dados: MySQL, PostgreSQL, MongoDB 🗃️
 - Ferramentas: Docker 🐳, Git 🌳
 - Plataformas: AWS (Amazon Web Services) ☁️
+- Testes: pytest 🧪
 
 ### Projetos Destacados 🏆
 
