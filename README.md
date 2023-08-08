@@ -26,3 +26,5 @@ Acredito na importância da colaboração e do código aberto. Contribuo com pro
 - Email: ojuliocesar010@gmail.com
 
 Vamos trabalhar juntos para criar soluções eficientes e impactantes no mundo do desenvolvimento backend! 🚀
+
+![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
