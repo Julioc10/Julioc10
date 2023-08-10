@@ -2,7 +2,7 @@
 
 
 
-Sou um desenvolvedor com experiência em Python e Java, especializado em backend e apaixonado pelo mundo da programação. Tenho conhecimentos sólidos em tecnologias como Flask, bancos de dados, Docker, AWS, pytest 🚀
+Sou um desenvolvedor com experiência em Python, especializado em backend e apaixonado pelo mundo da programação. Tenho conhecimentos sólidos em tecnologias como Flask, bancos de dados, Docker, AWS, pytest 🚀
 
 ![image](https://github.com/Julioc10/Julioc10/assets/69183396/f64d58a1-0e4c-483e-a7b2-97287920b35e)
 ![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioC10&show_icons=true&theme=tokyonight) 
